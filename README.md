@@ -46,6 +46,3 @@ The goal is to engage users, provide an attractive first impression, and direct 
 - 🧩 **Easy to customize** — change colors, text, images  
 - 🚀 **Lightweight & fast** — no heavy frameworks required  
 
-
-## 📁 Project Structure
-
